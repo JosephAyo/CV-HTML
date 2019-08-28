@@ -1,0 +1,45 @@
+body{
+    font-family: 'Changa', sans-serif;
+}
+
+.head{
+    padding: 0;
+    border-radius: 10% 10% 10% 10%;
+    background-color: #ebdddd
+}
+
+table{
+    background-color: aliceblue;
+}
+
+img{
+    background-color: #ddd4d4;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+a{
+    color: #111111;
+    text-decoration: none;
+}
+
+#qoute{
+    font-size: 20px;
+}
+
+h3{
+    color: rgb(23, 25, 150)
+}
+
+h2{
+    color: rgb(68, 65, 65);
+}
+
+#progress{
+    background-color: gray;
+    width: 100%    
+}
+#bar{
+    background-color: rgb(65, 7, 112);
+    height: 10px;
+}
