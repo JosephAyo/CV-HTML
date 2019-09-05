@@ -34,5 +34,5 @@ function formValidate() {
         cv.style.display = 'block';
     }
     //determines if the CV page is reloaded or not depending on the value of 'valid'
-    return !valid;
+    return valid;
 }
