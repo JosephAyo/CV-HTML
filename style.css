@@ -1,5 +1,7 @@
 body {
     font-family: Changa, sans-serif;
+    
+    background-color: rgb(221, 221, 221);
 }
 
 .head {
@@ -7,6 +9,7 @@ body {
     padding: 0px;
     border-radius: 10%;
 }
+
 
 h3 {
     color: rgb(23, 25, 150);
@@ -19,4 +22,25 @@ a {
 
 h2 {
     color: rgb(68, 65, 65);
+}
+
+#message{
+    height: 100px;
+}
+
+#showButton{
+    padding: 13px;
+}
+
+#div_wrapper{
+    text-align: center;    
+}
+#form{
+    display: none;
+    text-align: center;
+    background-color: rgb(63, 2, 58);
+}
+
+input{
+    width: 70%;
 }
